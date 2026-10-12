@@ -1,0 +1,31 @@
+MIT License
+
+Copyright (c) 2026 lwx
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+----------------------------------------------------------------------------
+关于美术素材（IMPORTANT）
+
+本仓库的代码（tools/ 下的管线脚本、assemble.py、verify_final.gd 等）采用上述
+MIT 许可。
+
+但**本仓库不包含任何游戏美术素材**。《杀戮尖塔》与《杀戮尖塔 2》的角色贴图、
+立绘、动画数据版权均归 MegaCrit 所有。使用本仓库的脚本时，素材需要从**你自己
+合法拥有的游戏安装**中提取（见 tools/extract_assets.py），提取出的素材请勿再分发。

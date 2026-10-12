@@ -1,0 +1,12 @@
+{
+  "id": "DefectSTS1Skin",
+  "pck_name": "DefectSTS1Skin",
+  "name": "故障机器人 · 一代复刻皮肤",
+  "author": "lwx",
+  "description": "把《杀戮尖塔》初代故障机器人的美术以原始精度移植到《杀戮尖塔 2》，保留初代的风格与站姿，并提供二代所需的全部 8 个动画（idle_loop / relaxed_loop / low_health_loop / process / attack / cast / hurt / die）。纯美术覆盖，不改变玩法。attack/cast/die/process/relaxed_loop/low_health_loop 由二代原版动作重定向到一代骨架上。部分素材源自初代《杀戮尖塔》，版权归 MegaCrit 所有。",
+  "version": "v0.1.0",
+  "min_game_version": "0.111.0",
+  "has_pck": true,
+  "has_dll": false,
+  "affects_gameplay": false
+}

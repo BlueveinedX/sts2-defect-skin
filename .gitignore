@@ -1,0 +1,32 @@
+# ══ 从游戏提取的版权素材（MegaCrit 所有，禁止入库）══
+ref-sts1/
+ref-sts1-ui/
+game-defect/
+game-rigs/
+game-ui/
+analysis/
+
+# ══ 生成物：含游戏美术，可由管线重新生成 ══
+godot-project/animations/
+godot-project/images/
+godot-project/poses_export.json
+godot-project/.godot/
+godot-project/api*.gd
+godot-project/.godot-home/
+build/
+godot-project/dump_anims.gd
+
+# ══ 第三方二进制（README 里有下载地址，不必入库）══
+godot-project/bin/
+vendor/
+
+# ══ 构建产物 / 成品 ══
+mod/
+dist/
+preview/
+
+# ══ 系统与编辑器 ══
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
